@@ -8,7 +8,7 @@
 
 # Current main active project ([code])(https://github.com/TheLonelyFighter/Lidar_Segmentation)
 Solid-State Lidar segmentation with PCL and ROS Noetic for autonomous UAV navigation.
-![Aerial Point Cloud]](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/Aerial_point_cloud_data.png)
+![Aerial Point Cloud](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/Aerial_point_cloud_data.png)
 ![Data gathering session with octocopter and Lidar](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/data_gathering_session.jpeg)
 
 
