@@ -18,7 +18,7 @@ Solid-State Lidar segmentation with PCL and ROS Noetic for autonomous UAV naviga
 
 ![Prague_summer_school](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "Prague_summer_school")
 
-### Vision-based GNSS-Free Localization for UAVs in the Wild [code](https://github.com/TIERS/wildnav)
+### Vision-based GNSS-Free Localization for UAVs in the Wild [(code)](https://github.com/TIERS/wildnav)
 
 ![UAV_Vision](https://github.com/TIERS/wildnav/blob/main/assets/overview/project_overview.png)
 
