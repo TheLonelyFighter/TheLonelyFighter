@@ -6,14 +6,25 @@
 - 💞️ I’m looking to collaborate on open-source Robotics projects.
 - 📫 Feel free to contact me at marius.gurgu97@gmail.com if you want to ask any questions about my repos or you wish to talk about one of your cool projects.
 
-# You can check out some of my recent projects in the videos below:
+# Check some of my recent projects  below:
+
+### IEEE MRS Summer School winning [(code)] (https://github.com/TheLonelyFighter/skynet)
+![RC Failsafe](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "RC Failsafe")
+
+### Autonomous drone navigating through colored gates [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems))
+
 [![Autonomous Drone](https://res.cloudinary.com/marcomontalbano/image/upload/v1664446883/video_to_markdown/images/youtube--BtoOrTzUJbk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=BtoOrTzUJbk "Autonomous Drone")
 
+### Real-time ice detection for cars by listening to the wheels [(code)](https://github.com/TheLonelyFighter/Capstone))   
 [![Real-time ice detection app for cars](https://res.cloudinary.com/marcomontalbano/image/upload/v1665045752/video_to_markdown/images/youtube--bkv_uZ7uJU0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=bkv_uZ7uJU0 "Real-time ice detection app for cars")
+
+### Drone helps poor blind robot navigate a maze [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems)
 
 [![Multi-robot system perception and navigation](https://res.cloudinary.com/marcomontalbano/image/upload/v1664446964/video_to_markdown/images/youtube--N2d6wZUVL24-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=N2d6wZUVL24 "Multi-Robot System perception and navigation")
 
+### Drone camera face detection  
 [![Drone face detection](https://res.cloudinary.com/marcomontalbano/image/upload/v1665045864/video_to_markdown/images/youtube--sBoxL8QvF_w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=sBoxL8QvF_w "Drone face detection")
+
 
 
 
