@@ -15,7 +15,7 @@
 
 [![Autonomous Drone](https://res.cloudinary.com/marcomontalbano/image/upload/v1664446883/video_to_markdown/images/youtube--BtoOrTzUJbk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=BtoOrTzUJbk "Autonomous Drone")
 
-### Real-time ice detection for cars by listening to the wheels [(code)](https://github.com/TheLonelyFighter/Capstone))   
+### Real-time ice detection for cars by listening to the wheels [(code)](https://github.com/TheLonelyFighter/Capstone)  
 [![Real-time ice detection app for cars](https://res.cloudinary.com/marcomontalbano/image/upload/v1665045752/video_to_markdown/images/youtube--bkv_uZ7uJU0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=bkv_uZ7uJU0 "Real-time ice detection app for cars")
 
 ### Drone helps poor blind robot navigate a maze [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems)
