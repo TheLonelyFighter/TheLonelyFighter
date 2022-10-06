@@ -11,7 +11,7 @@
 ### IEEE MRS Summer School winning [(code)](https://github.com/TheLonelyFighter/skynet)
 ![RC Failsafe](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "RC Failsafe")
 
-### Autonomous drone navigating through colored gates [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems))
+### Autonomous drone navigating through colored gates [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems)
 
 [![Autonomous Drone](https://res.cloudinary.com/marcomontalbano/image/upload/v1664446883/video_to_markdown/images/youtube--BtoOrTzUJbk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=BtoOrTzUJbk "Autonomous Drone")
 
