@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on open-source Robotics projects.
 - 📫 Feel free to contact me at marius.gurgu97@gmail.com if you want to ask any questions about my repos or you wish to talk about one of your cool projects.
 
-# Current main active project ([code])(https://github.com/TheLonelyFighter/Lidar_Segmentation)
+# Current main active project [(code)](https://github.com/TheLonelyFighter/Lidar_Segmentation))
 Solid-State Lidar segmentation with PCL and ROS Noetic for autonomous UAV navigation.
 ![Aerial Point Cloud](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/Aerial_point_cloud_data.png)
 ![Data gathering session with octocopter and Lidar](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/data_gathering_session.jpeg)
