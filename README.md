@@ -8,7 +8,7 @@
 
 # Check some of my recent projects  below:
 
-### IEEE MRS Summer School winning team [(code)](https://github.com/TheLonelyFighter/skynet)
+### [2022 IEEE MRS Summer School](http://mrs.felk.cvut.cz/summer-school/) in Prague winning team [(code)](https://github.com/TheLonelyFighter/skynet)
 ![RC Failsafe](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "RC Failsafe")
 
 ### Autonomous drone navigating through colored gates [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems)
