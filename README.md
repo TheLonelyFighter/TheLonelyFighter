@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on open-source Robotics projects.
 - 📫 Feel free to contact me at marius.gurgu97@gmail.com if you want to ask any questions about my repos or you wish to talk about one of your cool projects.
 
-# Check some of my recent projects  below:
+# Check out some of my recent projects
 
 ### [2022 IEEE MRS Summer School](http://mrs.felk.cvut.cz/summer-school/) in Prague winning team [(code)](https://github.com/TheLonelyFighter/skynet)
 ![RC Failsafe](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "RC Failsafe")
