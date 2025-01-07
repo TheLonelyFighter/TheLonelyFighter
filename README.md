@@ -2,25 +2,19 @@
  
 - 👋 Hi, I’m Marius!
 - 👀 I’m interested in Robotics, UAVs and real-time systems. 
-- 🌱 I’m currently learning Computer Vision to enable autonomous drone navigation without GNSS.
-- 💞️ I’m looking to collaborate on open-source Robotics projects.
+- 🌱 I’m currently performing hardware-in-the-loop testing for [Rapyuta's Automated Storage and Retrieval System](https://www.rapyuta-robotics.com/solutions-asrs/).
+- 💞️ I’m looking forwards to collaborating on open-source Robotics projects.
 - 📫 Feel free to contact me at marius.gurgu97@gmail.com if you want to ask any questions about my repos or you wish to talk about one of your cool projects.
 
-# Current main active project [(code)](https://github.com/TheLonelyFighter/Lidar_Segmentation)
-Solid-State Lidar segmentation with PCL and ROS Noetic for autonomous UAV navigation.
-![Aerial Point Cloud](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/Aerial_point_cloud_data.png)
-![Data gathering session with octocopter and Lidar](https://github.com/TheLonelyFighter/Lidar_Segmentation/blob/main/assets/data_gathering_session.jpeg)
-
-
-# Check out some of my recent projects
-
-### [2022 IEEE MRS Summer School](http://mrs.felk.cvut.cz/summer-school/) in Prague winning team [(code)](https://github.com/TheLonelyFighter/skynet)
-
-![Prague_summer_school](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "Prague_summer_school")
+# Check out some of my open source projects
 
 ### Vision-based GNSS-Free Localization for UAVs in the Wild [(code)](https://github.com/TIERS/wildnav)
 
 ![UAV_Vision](https://github.com/TIERS/wildnav/blob/main/assets/overview/project_overview.png)
+
+### [2022 IEEE MRS Summer School](http://mrs.felk.cvut.cz/summer-school/) in Prague winning team [(code)](https://github.com/TheLonelyFighter/skynet)
+
+![Prague_summer_school](https://github.com/TheLonelyFighter/skynet/blob/master/assets/mrs_summer_school_win.png "Prague_summer_school")
 
 ### Autonomous drone navigating through colored gates [(code)](https://github.com/TheLonelyFighter/Robots_and_Autonomous_Systems)
 
