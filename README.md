@@ -2,7 +2,6 @@
  
 - 👋 Hi, I’m Marius!
 - 👀 I’m interested in Robotics, UAVs and real-time systems. 
-- 🌱 I’m currently performing hardware-in-the-loop testing for [Rapyuta's Automated Storage and Retrieval System](https://www.rapyuta-robotics.com/solutions-asrs/).
 - 💞️ I’m looking forwards to collaborating on open-source Robotics projects.
 - 📫 Feel free to contact me at marius.gurgu97@gmail.com if you want to ask any questions about my repos or you wish to talk about one of your cool projects.
 
